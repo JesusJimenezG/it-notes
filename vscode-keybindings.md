@@ -1,8 +1,8 @@
 # Vscode keybindings and configuration
 
-## Added on 1/11/2024
+## Keybindings
 
-### Keybindings
+### Select current tag (added on 1/11/2024)
 
 The following bindings allow to select the current tag and its content in html files. The first one is the default vscode binding, the second one is the emmet binding. The same is done for the shrink command. The emmet binding is only active when the language is html and there is a selection. The default binding is active in all cases.
 
@@ -31,7 +31,7 @@ The following bindings allow to select the current tag and its content in html f
 
 source: [Stackoverflow](https://stackoverflow.com/a/40971959)
 
-## Searched on 1/11/2021
+### Fold and unfold regions
 
 - **Fold** folds the innermost uncollapsed region at the cursor:
   - `Ctrl + Shift + [` on Windows and Linux
@@ -48,3 +48,5 @@ source: [Stackoverflow](https://stackoverflow.com/a/40971959)
 - **Unfold** All unfolds all regions in the editor:
   - `Ctrl + K, Ctrl + J` on Windows and Linux
   - `⌘ + K, ⌘ + J` on macOS
+
+Source: [StackOverflow](https://stackoverflow.com/a/30077543)
